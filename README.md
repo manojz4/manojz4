@@ -40,7 +40,7 @@
 <h2 align="left">📫 Connect with Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/manojpadvi" target="_blank" style="text-decoration: none; margin-right: 10px;">
+  <a href="www.linkedin.com/in/manoj-padvi" target="_blank" style="text-decoration: none; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/channel/UCnrn7DbMlnD8YZAeVDH4j-g" target="_blank" style="text-decoration: none;">
