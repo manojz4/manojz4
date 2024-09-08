@@ -1,4 +1,4 @@
-![logo](https://github.com/manojz4/github_readme/blob/main/gitbanner.png)
+![logo](https://github.com/manojz4/github_readme/blob/main/manoj_made.png)
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
