@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/manojz4/manojz4/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
