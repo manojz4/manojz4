@@ -1,10 +1,11 @@
+![logo](https://github.com/manojz4/github_readme/blob/main/gitbanner.png)
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<h3 align="center">My name is Manoj Padvi and I'm from India</h3>
+<h3 align="center">My name is Manoj Padvi & I'm from INDIA</h3>
 
-<img align="right" alt="Coding" width="393" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/manojz4/github_readme/blob/main/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif">
 
 ###
 
