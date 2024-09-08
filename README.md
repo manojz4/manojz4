@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Manoj Padvi & I'm from INDIA</h2>
+<h3 align="left">My name is Manoj Padvi & I'm from INDIA</h3>
 
 ###
 
@@ -48,13 +48,19 @@
 
 ###
 
-
+<h2 align="left">📫 Connect with Me</h2>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/manojz4/count.svg?"  />
 </div>
 
 ###
