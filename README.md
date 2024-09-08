@@ -52,4 +52,5 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/manojz4/count.svg?" />
+  <p>😊😎🚀✨💻👨‍💻🌟🎉</p>
 </div>
