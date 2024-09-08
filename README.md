@@ -4,7 +4,7 @@
 
 <h3 align="center">My name is Manoj Padvi & I'm from INDIA</h3>
 
-<img align="right" alt="Coding" width="393" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align="right" alt="Coding" width="394" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 ###
 
