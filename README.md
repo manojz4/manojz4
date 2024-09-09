@@ -41,7 +41,7 @@
 <h2 align="left">📂 Projects</h2>
 
 <div style="max-width: 800px; margin: auto; position: relative;">
-  <img align="right" alt="Coding" width="215" src="https://github.com/manojz4/github_readme/blob/main/memphis-web-design-with-the-word-create.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto; vertical-align: middle;">
+  <img align="right" alt="Coding" width="220" src="https://github.com/manojz4/github_readme/blob/main/memphis-web-design-with-the-word-create.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto; vertical-align: middle;">
 <br> <!-- Added line break here -->
   <br> <!-- Added line break here -->
   
