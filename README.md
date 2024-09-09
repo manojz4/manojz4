@@ -73,5 +73,6 @@
 
 <div align="center" style="position: relative; margin-top: 20px;">
   <img src="https://profile-counter.glitch.me/manojz4/count.svg?" style="vertical-align: middle;" />
+  <br> <!-- Added line break here -->
   <p>😊😎🚀✨💻👨‍💻🌟🎉</p>
 </div>
