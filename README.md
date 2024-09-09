@@ -47,7 +47,7 @@
   
   <ul style="text-align: justify; font-size: 16px; line-height: 1.6;">
     <li> 🟢 Project 1: Automated HPC Cluster on AWS. <a href="https://github.com/manojz4/CDAC_PROJECT.git" target="_blank"> GitHub Repo</a></li>
-    <li> 🟡 Project 2: In Progress.<a href="https://github.com/manojz4/AWS_Project_static_website.git" target="_blank"> GitHub Repo</a></li>
+    <li> 🟡 Project 2: In Progress.(http://manya-basic.s3-website-us-east-1.amazonaws.com/)<a href="https://github.com/manojz4/AWS_Project_static_website.git" target="_blank"> GitHub Repo</a></li>
     <li> 🔴 Project 3: Awaiting new projects.</li>
     <li> 🔴 Project 4: Awaiting new projects.</li>
     <li> 🔴 Project 5: Awaiting new projects.</li>
