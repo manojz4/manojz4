@@ -4,9 +4,9 @@
 <h3 align="center">Tech Enthusiast from India</h3>
 
 <div style="max-width: 800px; margin: auto; position: relative;">
-  <img align="right" alt="Coding" width="400" src="https://github.com/manojz4/github_readme/blob/main/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto;">
+  <img align="right" alt="Coding" width="360" src="https://github.com/manojz4/github_readme/blob/main/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto;">
 
-  <h2>About Me</h2>
+  <h2>💻 About Me</h2>
   <div style="text-align: justify; font-size: 16px; line-height: 1.6;">
     <p>🌟 I’m an enthusiastic fresher with a strong passion for technology and innovation. Eager to dive into the tech world and make a meaningful impact.</p>
     <p>📚 Aspiring Cloud Expert: I aim to deepen my knowledge in AWS and cloud computing to design scalable and efficient solutions.</p>
@@ -41,9 +41,9 @@
 <h2 align="left">📂 Projects</h2>
 
 <div style="max-width: 800px; margin: auto; position: relative;">
-  <img align="right" alt="Coding" width="220" src="https://github.com/manojz4/github_readme/blob/main/memphis-web-design-with-the-word-create.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto; vertical-align: middle;">
+  <img align="right" alt="Coding" width="248" src="https://github.com/manojz4/github_readme/blob/main/memphis-web-design-with-the-word-create.gif" style="margin-left: 20px; margin-bottom: 20px; float: right; max-width: 100%; height: auto; vertical-align: middle;">
 <br> <!-- Added line break here -->
-  <br> <!-- Added line break here -->
+<br> <!-- Added line break here -->
   
   <ul style="text-align: justify; font-size: 16px; line-height: 1.6;">
     <li> 🟢 Project 1: Automated HPC Cluster on AWS. <a href="https://github.com/manojz4/CDAC_PROJECT.git" target="_blank">‎ GitHub Repo</a></li>
