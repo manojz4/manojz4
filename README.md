@@ -1,4 +1,4 @@
-![logo](https://github.com/manojz4/github_readme/blob/main/manoj_made.png)
+![logo](https://github.com/manojz4/github_readme/blob/main/manoj_made-modified.png)
 
 <h1 align="center">Hey 👋, I'm Manoj!</h1>
 <h3 align="center">Tech Enthusiast from India</h3>
