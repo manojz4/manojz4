@@ -8,10 +8,9 @@
 
   <h2>💻 About Me</h2>
   <div style="text-align: justify; font-size: 16px; line-height: 1.6;">
-    <p>🌟 I’m an enthusiastic fresher with a strong passion for technology and innovation. Eager to dive into the tech world and make a meaningful impact.</p>
-    <p>📚 Aspiring Cloud Expert: I aim to deepen my knowledge in AWS and cloud computing to design scalable and efficient solutions.</p>
-    <p>🤖 Always exploring new technologies and tools with curiosity and excitement.</p>
-    <p>🐧 Hands-on experience with Linux, including system administration, scripting, and network configuration.</p>
+    <p>🌟 Tech enthusiast ready to make an impact! Passionate about innovation and always exploring new tools.</p>
+    <p>📚 Aspiring Cloud Expert: Focused on mastering AWS and cloud computing for scalable solutions.</p>
+    <p>🐧 Hands-on with Linux: system administration, scripting, and networking.</p>
     <br> <!-- Added line break here -->
   </div>
 </div>
